@@ -1,0 +1,6 @@
+framework module NetReachability {
+  umbrella header "NetReachability-umbrella.h"
+
+  export *
+  module * { export * }
+}
